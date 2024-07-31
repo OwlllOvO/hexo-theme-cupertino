@@ -33,6 +33,7 @@ body {
   line-height: 1.4211;
   font-weight: 400;
   letter-spacing: 0.012em;
+  margin-right: 320px; /* 根据 TOC 的宽度调整左侧边距 */
 }
 
 .content p,
