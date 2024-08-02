@@ -352,7 +352,7 @@ body[data-color-scheme="dark"] .tags .icon {
 
 /* Modified */
 
-.post .content { 
+.post .content {
   margin-right: calc(20vw); /* 根据 TOC 的宽度调整左侧边距 */
 }
 
