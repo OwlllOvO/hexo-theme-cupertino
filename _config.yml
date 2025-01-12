@@ -59,9 +59,9 @@ nav:
   items:
     # these items will display as a link
     Archives: /archives
-    Friends: /friends
-    Projects: /projects
-    About: /about
+    # Friends: /friends
+    # Projects: /projects
+    # About: /about
     Donate: /donate
     # these will be automatically be an icon
     GitHub: https://github.com/OwlllOvO
